@@ -1,7 +1,7 @@
 # aulagit
 aula 1
 
-# projeto
+# objetivo
 
 projeto de flutter
 
